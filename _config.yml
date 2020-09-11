@@ -1,4 +1,16 @@
+# Name of website
+title: Blog MSA
+
+# Your name to show in the footer
+author: Martin SAMOUILLER
+
 theme: jekyll-theme-cayman
 
-title: Martin SAMOUILLER
 description: Blog about AI, Python, C++, Qt 
+
+
+social-network-links:
+  email: "someone@example.com"
+  linkedin: msa
+  github: msa
+  twitter: msa
